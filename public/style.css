@@ -1,0 +1,74 @@
+body {
+    padding: 2px 5% 2px 5%;
+    background-color: rgb(253, 189, 189);
+}
+.pagina {
+    background-color: rgb(202, 255, 243);
+    padding: 2px;
+}
+
+.parte-central {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 800px;
+    height: 500px;
+}
+
+.parrafo {
+    width: 800px;
+    margin-right: 5%;
+    text-align: justify;
+    font-size: 20px;
+    margin-bottom: 2%;
+}
+
+.border {
+    border-bottom: .5px solid rgb(7, 6, 6);
+    margin-bottom: 1%;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.subscribite {    
+    margin: 0;
+    text-align: center;
+}
+
+.contenedor-pie {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100px;  
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.formulario{
+    padding: 10px;
+    width: 50%;
+    background-color: #b498a8;
+    border: 2px solid black;
+    text-align: left;
+    border-radius: 10px;
+}
+
+.botonEnviar{
+    text-align: center;
+}

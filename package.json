@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-m3u4",
+  "version": "1.0.0",
+  "description": "Desarrollar un servidor que reciba un formulario y almacene la información (previamente\r validada), en una base de datos MySQL. Generar un método para recibir una petición\r GET a la que se le devolverá un listado con todos los datos de la tabla.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Federicoluna1/Modulo3-Unidad4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Federicoluna1/Modulo3-Unidad4/issues"
+  },
+  "homepage": "https://github.com/Federicoluna1/Modulo3-Unidad4#readme"
+}
